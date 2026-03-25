@@ -5,6 +5,6 @@
 
   # thw17's Website
 
-  Visit **[thw17.github.io/websterlab-website](https://thw17.github.io/websterlab-website)** 🚀
+  Visit **[www.websterlab.org](https://www.websterlab.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

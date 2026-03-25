@@ -1,1 +1,1 @@
-Sitemap: https://thw17.github.io/websterlab-website/sitemap.xml
+Sitemap: https://www.websterlab.org/sitemap.xml

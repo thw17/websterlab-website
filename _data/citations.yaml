@@ -236,6 +236,25 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1111/mec.17600
+  title: Divergence in Regulatory Regions and Gene Duplications May Underlie Chronobiological
+    Adaptation in Desert Tortoises
+  authors:
+  - N. Jade Mellor
+  - Timothy H. Webster
+  - Hazel Byrne
+  - Avery S. Williams
+  - Taylor Edwards
+  - Dale F. DeNardo
+  - Melissa A. Wilson
+  - Kenro Kusumi
+  - Greer A. Dolby
+  publisher: Molecular Ecology
+  date: '2024-12-03'
+  link: https://doi.org/hbtt7q
+  image: images/2024_mellor.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:

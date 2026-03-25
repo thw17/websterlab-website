@@ -1,239 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.64898/2026.03.22.713509
+  title: Human Ancestors Interbred with Two Distinct Populations of Distant Relatives
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Alan R. Rogers
+  - Md Touhidul Islam
+  - Colin M. Brand
+  - Timothy H. Webster
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2026-03-23'
+  link: https://doi.org/hbtt7s
+  orcid: 0000-0003-1174-2395
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/mec.17600
@@ -252,7 +29,698 @@
   publisher: Molecular Ecology
   date: '2024-12-03'
   link: https://doi.org/hbtt7q
+  orcid: 0000-0003-1174-2395
+  plugin: sources.py
+  file: sources.yaml
   image: images/2024_mellor.jpg
+- id: doi:10.1093/gbe/evae210
+  title: Sequence-Based Machine Learning Reveals 3D Genome Differences between Bonobos
+    and Chimpanzees
+  authors:
+  - Colin M Brand
+  - Shuzhen Kuang
+  - Erin N Gilbertson
+  - Evonne McArthur
+  - Katherine S Pollard
+  - Timothy H Webster
+  - John A Capra
+  publisher: Genome Biology and Evolution
+  date: '2024-10-09'
+  link: https://doi.org/hbtt7t
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.13728520
+  title: Data for the publication Climate and nutrition drive gut microbiome variation
+    in a fruit-specialist primate
+  authors:
+  - Timothy Webster
+  - Nina Beeby
+  - Katherine Amato
+  - Jessica Rothman
+  - Andrea Baden
+  publisher: Zenodo
+  date: '2024-09-07'
+  link: https://doi.org/hbtt7v
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.13728519
+  title: Data for the publication Climate and nutrition drive gut microbiome variation
+    in a fruit-specialist primate
+  authors:
+  - Timothy Webster
+  - Nina Beeby
+  - Katherine Amato
+  - Jessica Rothman
+  - Andrea Baden
+  publisher: Zenodo
+  date: '2024-09-07'
+  link: https://doi.org/hbtt7w
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.22541/au.172532972.22372724/v1
+  title: Regulatory divergence may underlie ecological adaptation of chronobiological
+    functions between speciated desert tortoises
+  authors:
+  - N Jade Mellor
+  - Timothy Webster
+  - Hazel Byrne
+  - Avery Williams
+  - Taylor Edwards
+  - Dale DeNardo
+  - Melissa Wilson
+  - Kenro Kusumi
+  - Greer Dolby
+  publisher: Wiley
+  date: '2024-09-03'
+  link: https://doi.org/hbtt7x
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gbe/evae018
+  title: Lack of Dosage Balance and Incomplete Dosage Compensation in the ZZ/ZW Gila
+    Monster (<i>Heloderma suspectum</i>) Revealed by De Novo Genome Assembly
+  authors:
+  - Timothy H Webster
+  - Annika Vannan
+  - Brendan J Pinto
+  - Grant Denbrock
+  - Matheo Morales
+  - Greer A Dolby
+  - Ian T Fiddes
+  - Dale F DeNardo
+  - Melissa A Wilson
+  publisher: Genome Biology and Evolution
+  date: '2024-02-06'
+  link: https://doi.org/gthj5n
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0287609
+  title: Genomic and demographic processes differentially influence genetic variation
+    across the human X chromosome
+  authors:
+  - Daniel J. Cotter
+  - Timothy H. Webster
+  - Melissa A. Wilson
+  publisher: PLOS ONE
+  date: '2023-11-01'
+  link: https://doi.org/hbtt7z
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.26.564272
+  title: Sequence-based machine learning reveals 3D genome differences between bonobos
+    and chimpanzees
+  authors:
+  - Colin M. Brand
+  - Shuzhen Kuang
+  - Erin N. Gilbertson
+  - Evonne McArthur
+  - Katherine S. Pollard
+  - Timothy H. Webster
+  - John A. Capra
+  publisher: openRxiv
+  date: '2023-10-26'
+  link: https://doi.org/hbtt72
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.04.26.538436
+  title: "Incomplete dosage balance and dosage compensation in the ZZ/ZW Gila monster\
+    \ (\n                  <i>Heloderma suspectum</i>\n                  ) revealed\
+    \ by\n                  <i>de novo</i>\n                  genome assembly"
+  authors:
+  - Timothy H. Webster
+  - Annika Vannan
+  - Brendan J. Pinto
+  - Grant Denbrock
+  - Matheo Morales
+  - Greer A. Dolby
+  - Ian T. Fiddes
+  - Dale F. DeNardo
+  - Melissa A. Wilson
+  publisher: openRxiv
+  date: '2023-04-28'
+  link: https://doi.org/gr8rg9
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2116681119
+  title: Signatures of adaptive evolution in platyrrhine primate genomes
+  authors:
+  - Hazel Byrne
+  - Timothy H. Webster
+  - Sarah F. Brosnan
+  - "Patr\xEDcia Izar"
+  - Jessica W. Lynch
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-08-22'
+  link: https://doi.org/gsx574
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2200858119
+  title: "Estimating bonobo (\n            <i>Pan</i>\n            <i>paniscus</i>\n\
+    \            ) and chimpanzee (\n            <i>Pan</i>\n            <i>troglodytes</i>\n\
+    \            ) evolutionary history from nucleotide site patterns"
+  authors:
+  - Colin M. Brand
+  - Frances J. White
+  - Alan R. Rogers
+  - Timothy H. Webster
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-04-22'
+  link: https://doi.org/hbtt73
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.01.07.475438
+  title: "Estimating\n                  <i>Pan</i>\n                  evolutionary\
+    \ history from nucleotide site patterns"
+  authors:
+  - Colin M. Brand
+  - Frances J. White
+  - Alan R. Rogers
+  - Timothy H. Webster
+  publisher: openRxiv
+  date: '2022-01-09'
+  link: https://doi.org/hbtt74
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.08.19.456368
+  title: Signatures of adaptive evolution in platyrrhine primate genomes
+  authors:
+  - Hazel Byrne
+  - Timothy H. Webster
+  - Sarah F. Brosnan
+  - "Patr\xEDcia Izar"
+  - Jessica W. Lynch
+  publisher: openRxiv
+  date: '2021-08-20'
+  link: https://doi.org/hbtt75
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.abd2274
+  title: "Comparative genomic analysis of sifakas (\n            <i>Propithecus</i>\n\
+    \            ) reveals selection for folivory and high heterozygosity despite\
+    \ endangered status"
+  authors:
+  - Elaine E. Guevara
+  - Timothy H. Webster
+  - Richard R. Lawler
+  - Brenda J. Bradley
+  - Lydia K. Greene
+  - Jeannin Ranaivonasy
+  - Joelisoa Ratsirarson
+  - R. Alan Harris
+  - Yue Liu
+  - Shwetha Murali
+  - Muthuswamy Raveendran
+  - Daniel S. T. Hughes
+  - Donna M. Muzny
+  - Anne D. Yoder
+  - Kim C. Worley
+  - Jeffrey Rogers
+  publisher: Science Advances
+  date: '2021-04-23'
+  link: https://doi.org/gqbbj3
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.01.31.429027
+  title: Genomic and demographic processes differentially influence genetic variation
+    across the X chromosome
+  authors:
+  - Daniel J. Cotter
+  - Timothy H. Webster
+  - Melissa A. Wilson
+  publisher: openRxiv
+  date: '2021-02-01'
+  link: https://doi.org/hbtt76
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1755-0998.13260
+  title: "Urine as a high\u2010quality source of host genomic DNA from wild populations"
+  authors:
+  - Andrew T. Ozga
+  - Timothy H. Webster
+  - Ian C. Gilby
+  - Melissa A. Wilson
+  - Rebecca S. Nockerts
+  - Michael L. Wilson
+  - Anne E. Pusey
+  - Yingying Li
+  - Beatrice H. Hahn
+  - Anne C. Stone
+  publisher: Molecular Ecology Resources
+  date: '2020-10-17'
+  link: https://doi.org/gpf3x8
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.12.14.422788
+  title: "Soft sweeps predominate recent positive selection in bonobos (\n       \
+    \           <i>Pan paniscus</i>\n                  ) and chimpanzees (\n     \
+    \             <i>Pan troglodytes</i>\n                  )"
+  authors:
+  - Colin M. Brand
+  - Frances J. White
+  - Nelson Ting
+  - Timothy H. Webster
+  publisher: openRxiv
+  date: '2020-12-14'
+  link: https://doi.org/hbtt77
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.11.24.392191
+  title: High-throughput phenotyping methods for quantifying hair fiber morphology
+  authors:
+  - Tina Lasisi
+  - Arslan A. Zaidi
+  - Timothy Harding Webster
+  - Nicholas Bradley Stephens
+  - Kendall Routch
+  - Nina Grace Jablonski
+  - Mark David Shriver
+  publisher: openRxiv
+  date: '2020-11-24'
+  link: https://doi.org/hbtt78
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.anbehav.2020.04.003
+  title: Genetic relatedness cannot explain social preferences in black-and-white
+    ruffed lemurs, Varecia variegata
+  authors:
+  - Andrea L. Baden
+  - Timothy H. Webster
+  - Brenda J. Bradley
+  publisher: Animal Behaviour
+  date: '2020-06-01'
+  link: https://doi.org/gpbskw
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.02.18.955377
+  title: Urine as a high-quality source of host genomic DNA from wild populations
+  authors:
+  - Andrew T. Ozga
+  - Timothy H. Webster
+  - Ian C. Gilby
+  - Melissa A. Wilson
+  - Rebecca S. Nockerts
+  - Michael L. Wilson
+  - Anne E. Pusey
+  - Yingying Li
+  - Beatrice H. Hahn
+  - Anne C. Stone
+  publisher: openRxiv
+  date: '2020-02-20'
+  link: https://doi.org/gkwkvd
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gbe/evaa016
+  title: Discovery of a New TLR Gene and Gene Expansion Event through Improved Desert
+    Tortoise Genome Assembly with Chromosome-Scale Scaffolds
+  authors:
+  - Greer A Dolby
+  - Matheo Morales
+  - Timothy H Webster
+  - Dale F DeNardo
+  - Melissa A Wilson
+  - Kenro Kusumi
+  publisher: Genome Biology and Evolution
+  date: '2020-02-01'
+  link: https://doi.org/hbtt79
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v12020143
+  title: 'Virus Discovery in Desert Tortoise Fecal Samples: Novel Circular Single-Stranded
+    DNA Viruses'
+  authors:
+  - Joseph P. Orton
+  - Matheo Morales
+  - Rafaela S. Fontenele
+  - Kara Schmidlin
+  - Simona Kraberger
+  - Daniel J. Leavitt
+  - Timothy H. Webster
+  - Melissa A. Wilson
+  - Kenro Kusumi
+  - Greer A. Dolby
+  - Arvind Varsani
+  publisher: Viruses
+  date: '2020-01-26'
+  link: https://doi.org/gqkm5b
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/799825
+  title: "Genetic relatedness cannot explain social preferences in black-and-white\
+    \ ruffed lemurs (\n                  <i>Varecia variegata</i>\n              \
+    \    )"
+  authors:
+  - Andrea L Baden
+  - Timothy H Webster
+  - Brenda J Bradley
+  publisher: openRxiv
+  date: '2019-10-10'
+  link: https://doi.org/gk3dcw
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/725333
+  title: "Positively selected variants in functionally important regions of TLR7 in\n\
+    \                  <i>Alouatta guariba clamitans</i>\n                  with yellow\
+    \ fever virus exposure in Northern Argentina"
+  authors:
+  - Nicole S. Torosin
+  - Timothy H. Webster
+  - Hernan Argibay
+  - Hebe Ferreyra
+  - Marcela Uhart
+  - Ilaria Agostini
+  - Leslie A. Knapp
+  publisher: openRxiv
+  date: '2019-08-05'
+  link: https://doi.org/gkz6vr
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/708008
+  title: "Comparing the selective landscape of TLR7 and TLR8 across primates reveals\
+    \ unique sites under positive selection in\n                  <i>Alouatta</i>"
+  authors:
+  - Nicole S. Torosin
+  - Hernan Argibay
+  - Timothy H. Webster
+  - Patrice Showers Corneli
+  - Leslie A. Knapp
+  publisher: openRxiv
+  date: '2019-07-19'
+  link: https://doi.org/gk3mtp
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gigascience/giz074
+  title: Identifying, understanding, and correcting technical artifacts on the sex
+    chromosomes in next-generation sequencing data
+  authors:
+  - Timothy H Webster
+  - Madeline Couse
+  - Bruno M Grande
+  - Eric Karlins
+  - Tanya N Phung
+  - Phillip A Richmond
+  - Whitney Whitford
+  - Melissa A Wilson
+  publisher: GigaScience
+  date: '2019-07-01'
+  link: https://doi.org/gf6kmf
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.2635885
+  title: 'XYalign: Version 1.1.6'
+  authors:
+  - Timothy H. Webster
+  - Madeline Couse
+  - Bruno M. Grande
+  - Eric Karlins
+  - Tanya N. Phung
+  - Phillip A. Richmond
+  - Whitney Whitford
+  - Melissa A. Wilson
+  publisher: Zenodo
+  date: '2019-04-10'
+  link: https://doi.org/hbtt8b
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/490839
+  title: Successful exome capture and sequencing in lemurs using human baits
+  authors:
+  - Timothy H. Webster
+  - Elaine E. Guevara
+  - Richard R. Lawler
+  - Brenda J. Bradley
+  publisher: openRxiv
+  date: '2018-12-18'
+  link: https://doi.org/gk2wnx
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41592-018-0046-7
+  title: 'Bioconda: sustainable and comprehensive software distribution for the life
+    sciences'
+  authors:
+  - "Bj\xF6rn Gr\xFCning"
+  - Ryan Dale
+  - "Andreas Sj\xF6din"
+  - Brad A. Chapman
+  - Jillian Rowe
+  - Christopher H. Tomkins-Tinch
+  - Renan Valieris
+  - "Johannes K\xF6ster"
+  publisher: Nature Methods
+  date: '2018-07-01'
+  link: https://doi.org/gd2xzp
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/346940
+  title: Identifying, understanding, and correcting technical biases on the sex chromosomes
+    in next-generation sequencing data
+  authors:
+  - Timothy H. Webster
+  - Madeline Couse
+  - Bruno M. Grande
+  - Eric Karlins
+  - Tanya N. Phung
+  - Phillip A. Richmond
+  - Whitney Whitford
+  - Melissa A. Wilson Sayres
+  publisher: openRxiv
+  date: '2018-06-14'
+  link: https://doi.org/gkv93b
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7287/peerj.preprints.3266v4
+  title: "Improved draft of the Mojave Desert tortoise genome,\n                 \
+    \ <i>Gopherus agassizii</i>\n                  , version 1.1"
+  authors:
+  - Timothy H Webster
+  - Greer A Dolby
+  - Melissa A Wilson Sayres
+  - Kenro Kusumi
+  publisher: PeerJ
+  date: '2018-01-31'
+  link: https://doi.org/hbtt8c
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esx084
+  title: 'EvSex16: Evolutionary Genomics of Sex'
+  authors:
+  - Kimberly C Olney
+  - Pooja Narang
+  - Angela M Taravella
+  - Timothy H Webster
+  - Melissa A Wilson Sayres
+  publisher: Journal of Heredity
+  date: '2017-10-01'
+  link: https://doi.org/hbtt8d
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7287/peerj.preprints.3266v3
+  title: "Improved draft of the Mojave Desert tortoise genome,\n                 \
+    \ <i>Gopherus agassizii</i>\n                  , version 1.1"
+  authors:
+  - Timothy H Webster
+  - Greer A. Dolby
+  - Melissa Wilson Sayres
+  - Kenro Kusumi
+  publisher: PeerJ
+  date: '2017-09-19'
+  link: https://doi.org/hbtt8f
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/gbe/evw263
+  title: "Evolution of dosage compensation in\n            <i>Anolis carolinensis</i>\n\
+    \            , a reptile with XX/XY chromosomal sex determination"
+  authors:
+  - Shawn M. Rupp
+  - Timothy H. Webster
+  - Kimberly C. Olney
+  - Elizabeth D. Hutchins
+  - Kenro Kusumi
+  - Melissa A. Wilson Sayres
+  publisher: Genome Biology and Evolution
+  date: '2016-11-09'
+  link: https://doi.org/ggh635
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.gde.2016.08.002
+  title: 'Genomic signatures of sex-biased demography: progress and prospects'
+  authors:
+  - Timothy H Webster
+  - Melissa A Wilson Sayres
+  publisher: Current Opinion in Genetics &amp; Development
+  date: '2016-12-01'
+  link: https://doi.org/ggwbqp
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ajp.22507
+  title: "Resource seasonality and reproduction predict fission\u2013fusion dynamics\
+    \ in black\u2010and\u2010white ruffed lemurs (<i>Varecia variegata</i>)"
+  authors:
+  - Andrea L. Baden
+  - Timothy H. Webster
+  - Jason M. Kamilar
+  publisher: American Journal of Primatology
+  date: '2015-11-25'
+  link: https://doi.org/f79mdp
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12862-015-0358-5
+  title: 'The origin of snakes: revealing the ecology, behavior, and evolutionary
+    history of early snakes using genomics, phenomics, and the fossil record'
+  authors:
+  - Allison Y Hsiang
+  - Daniel J Field
+  - Timothy H Webster
+  - Adam DB Behlke
+  - Matthew B Davis
+  - Rachel A Racicot
+  - Jacques A Gauthier
+  publisher: BMC Evolutionary Biology
+  date: '2015-05-20'
+  link: https://doi.org/f7cns2
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jhevol.2014.02.005
+  title: "Selective insectivory at Toro-Semliki, Uganda: Comparative analyses suggest\
+    \ no \u2018savanna\u2019 chimpanzee pattern"
+  authors:
+  - Timothy H. Webster
+  - William C. McGrew
+  - Linda F. Marchant
+  - Charlotte L.R. Payne
+  - Kevin D. Hunt
+  publisher: Journal of Human Evolution
+  date: '2014-06-01'
+  link: https://doi.org/hbtt8g
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10764-013-9747-z
+  title: 'AVPR1A Variation in Chimpanzees (Pan troglodytes): Population Differences
+    and Association with Behavioral Style'
+  authors:
+  - Stephanie F. Anestis
+  - Timothy H. Webster
+  - Jason M. Kamilar
+  - M. Babette Fontenot
+  - David P. Watts
+  - Brenda J. Bradley
+  publisher: International Journal of Primatology
+  date: '2014-01-11'
+  link: https://doi.org/hbtt8h
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- title: 'Well digging by Semliki chimpanzees: new data on laterality and hydrology'
+  publisher: Pan Africa News
+  date: '2016-02-24'
+  link: http://mahale.main.jp/PAN/20_1/PAN20_1.pdf
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0047760
+  title: The Apolipoprotein E (APOE) Gene Appears Functionally Monomorphic in Chimpanzees
+    (Pan troglodytes)
+  authors:
+  - Annick M. McIntosh
+  - Calvin Bennett
+  - Dara Dickson
+  - Stephanie F. Anestis
+  - David P. Watts
+  - Timothy H. Webster
+  - M. Babette Fontenot
+  - Brenda J. Bradley
+  publisher: PLoS ONE
+  date: '2012-10-24'
+  link: https://doi.org/f4bz36
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Chimpanzees at Semliki ignore oil palms
+  publisher: Pan Africa News
+  date: '2016-02-24'
+  link: http://www.indiana.edu/~semliki/PDFs/McGrewHuntOilPalms2010.pdf
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Grooming hand-clasp by chimpanzees of the Mugiri community, Toro-Semliki
+    Wildlife Reserve, Uganda
+  publisher: Pan Africa News
+  date: '2016-02-24'
+  link: http://mahale.main.jp/PAN/16_1/16%281%29_02.html
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Coprophagy by the semi-habituated chimpanzees of Semliki, Uganda.
+  publisher: Pan Africa News
+  date: '2016-02-24'
+  link: http://mahale.main.jp/PAN/15_2/15%282%29_06.html
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017

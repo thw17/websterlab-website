@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: thw17
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: The Webster Lab
+subtitle: The Primate Evolution and Genomics Lab (PEGL)
+description: The Primate Evolution and Genomics Lab (Webster Lab) in the Department of Anthropology at the University of Utah uses computational and genomic approaches to investigate evolution, ecology, and behavior.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@thw17.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: timothy.h.webster@utah.edu
+  orcid: 0000-0003-1174-2395
+  google-scholar: vpKbTXgAAAAJ
   github: thw17
-  twitter: thw17
-  youtube: thw17
+  bluesky: timwebster
+#  youtube: thw17
 
 ### jekyll settings
 

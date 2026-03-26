@@ -46,6 +46,7 @@
   - ecology
   - behavior
   - lemurs
+  - primates
 - id: doi:10.1111/mec.17600
   title: Divergence in Regulatory Regions and Gene Duplications May Underlie Chronobiological
     Adaptation in Desert Tortoises
@@ -148,36 +149,14 @@
   date: '2022-04-22'
   link: https://doi.org/hbtt73
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.01.07.475438
-  title: "Estimating\n                  <i>Pan</i>\n                  evolutionary\
-    \ history from nucleotide site patterns"
-  authors:
-  - Colin M. Brand
-  - Frances J. White
-  - Alan R. Rogers
-  - Timothy H. Webster
-  publisher: openRxiv
-  date: '2022-01-09'
-  link: https://doi.org/hbtt74
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2021.08.19.456368
-  title: Signatures of adaptive evolution in platyrrhine primate genomes
-  authors:
-  - Hazel Byrne
-  - Timothy H. Webster
-  - Sarah F. Brosnan
-  - "Patr\xEDcia Izar"
-  - Jessica W. Lynch
-  publisher: openRxiv
-  date: '2021-08-20'
-  link: https://doi.org/hbtt75
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2022_brand.png
+  tags:
+  - genomics
+  - chimpanzees and bonobos
+  - introgression
+  - primates
 - id: doi:10.1126/sciadv.abd2274
   title: "Comparative genomic analysis of sifakas (\n            <i>Propithecus</i>\n\
     \            ) reveals selection for folivory and high heterozygosity despite\
@@ -662,5 +641,22 @@
   - reptiles
   - tortoises
   - pathogens
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.2116681119
+  title: Signatures of adaptive evolution in platyrrhine primate genomes
+  authors:
+  - Hazel Byrne
+  - Timothy H. Webster
+  - Sarah F. Brosnan
+  - "Patr\xEDcia Izar"
+  - Jessica W. Lynch
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2022-08-22'
+  link: https://doi.org/gsx574
+  tags:
+  - genomics
+  - adaptation
+  - primates
   plugin: sources.py
   file: sources.yaml

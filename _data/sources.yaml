@@ -24,8 +24,22 @@
     - ancient DNA
     - genomics
 
+- id: doi:10.1038/s41598-025-07399-3
+  image: images/2025_beeby.jpeg
+  tags:
+    - microbiome
+    - diet
+    - ecology
+    - lemurs
+
 - id: doi:10.1111/mec.17600
   image: images/2024_mellor.jpg
+  date: '2024-12-03'
+  tags:
+    - genomics
+    - speciation
+    - reptiles
+    - adaptation
 
 - id: doi:10.5281/zenodo.13728520
   remove: true

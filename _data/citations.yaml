@@ -44,6 +44,7 @@
   - microbiome
   - diet
   - ecology
+  - behavior
   - lemurs
 - id: doi:10.1111/mec.17600
   title: Divergence in Regulatory Regions and Gene Duplications May Underlie Chronobiological
@@ -109,8 +110,13 @@
   date: '2024-02-06'
   link: https://doi.org/gthj5n
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2024_webster.jpg
+  tags:
+  - genomics
+  - reptiles
+  - sex chromosomes
 - id: doi:10.1371/journal.pone.0287609
   title: Genomic and demographic processes differentially influence genetic variation
     across the human X chromosome

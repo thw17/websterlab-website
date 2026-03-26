@@ -31,6 +31,7 @@
     - microbiome
     - diet
     - ecology
+    - behavior
     - lemurs
 
 - id: doi:10.1111/mec.17600
@@ -57,3 +58,10 @@
     - genomics
     - speciation
     - chimpanzees and bonobos
+
+- id: doi:10.1093/gbe/evae018
+  image: images/2024_webster.jpg
+  tags:
+    - genomics
+    - reptiles
+    - sex chromosomes

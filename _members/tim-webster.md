@@ -6,6 +6,8 @@ affiliation: University of Utah
 aliases:
   - T. Webster
   - T Webster
+  - Timothy H. Webster
+  - Timothy H Webster
 links:
   orcid: 0000-0003-1174-2395
   github: thw17

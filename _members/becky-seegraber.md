@@ -8,6 +8,8 @@ aliases:
   - B Seegraber
   - R. Seegraber
   - R Seegraber
+  - Rebecca J. Seegraber
+  - Rebecca J Seegraber
 links:
   orcid: 0000-0002-2816-4555
   github: rseegraber

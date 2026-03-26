@@ -29,7 +29,7 @@ of chimpanzees at Ngogo, Uganda, before he ended up taking up genomics to begin
 exploring questions related to speciation in primates.
 
 
-After graduate school, Tim did a postdoc with [Melissa Wilson](http://www.sexchrlab.org/)
+After graduate school, Tim did a postdoc with [Melissa Wilson](https://irp.nih.gov/pi/melissa-wilson)
 in the School of Life Sciences at Arizona State University. During this time, he worked
 on a variety of genomic projects involving reptile evolution and sex chromosomes.
 

@@ -15,6 +15,7 @@
     - open science
     - collaboration
   repo: greenelab/meta-review
+  remove: true
 
 - id: doi:10.64898/2026.03.22.713509
   publisher: bioRxiv

@@ -19,6 +19,10 @@
 - id: doi:10.64898/2026.03.22.713509
   publisher: bioRxiv
   image: images/2026_rogers.png
+  tags:
+    - introgression
+    - ancient DNA
+    - genomics
 
 - id: doi:10.1111/mec.17600
   image: images/2024_mellor.jpg

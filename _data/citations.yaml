@@ -85,8 +85,13 @@
   date: '2024-10-09'
   link: https://doi.org/hbtt7t
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2023_brand.jpg
+  tags:
+  - genomics
+  - speciation
+  - chimpanzees and bonobos
 - id: doi:10.1093/gbe/evae018
   title: Lack of Dosage Balance and Incomplete Dosage Compensation in the ZZ/ZW Gila
     Monster (<i>Heloderma suspectum</i>) Revealed by De Novo Genome Assembly

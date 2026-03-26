@@ -7,10 +7,9 @@ aliases:
   - T. Webster
   - T Webster
 links:
-  home-page:
   orcid: 0000-0003-1174-2395
+  github: thw17
 ---
-
 Tim was an undergraduate at Miami University (Ohio), graduating in 2008 a BA in
 Anthropology and Zoology. While he was there, he worked with Linda Marchant and
 Scott Suarez, both in the Department of Anthropology, on projects related to primate behavior.
@@ -37,4 +36,4 @@ on a variety of genomic projects involving reptile evolution and sex chromosomes
 Starting in January, 2019, Tim became an Assistant Professor in the
 [Department of Anthropology at the University of Utah](http://anthro.utah.edu).
 He is also very active in the
-[American Association of Anthropological Genetics](http://anthgen.org/)."
+[American Association of Anthropological Genetics](http://anthgen.org/).

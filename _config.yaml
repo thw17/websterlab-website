@@ -2,8 +2,8 @@
 title: The Webster Lab
 subtitle: The Primate Evolution and Genomics Lab (PEGL)
 description: The Primate Evolution and Genomics Lab (Webster Lab) in the Department of Anthropology at the University of Utah uses computational and genomic approaches to investigate evolution, ecology, and behavior.
-header: images/background.jpg
-footer: images/background.jpg
+header: none
+footer: none
 proofer: false
 
 # site social media and other links

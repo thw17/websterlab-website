@@ -13,6 +13,27 @@
   orcid: 0000-0003-1174-2395
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/s41598-025-07399-3
+  title: Climate, diet, and nutrition drive gut microbiome variation in a fruit-specialist
+    primate
+  authors:
+  - Nina Beeby
+  - Lahitsara Jean Pierre
+  - Razafindraibe Faustin Jean Guy
+  - Rakotonjatovo Justin
+  - "Tombotiana Aim\xE9 Victor"
+  - Giulia Rossi
+  - Lotte van den Hout
+  - Jessica M. Rothman
+  - Katherine R. Amato
+  - Timothy H. Webster
+  - Andrea L. Baden
+  publisher: Scientific Reports
+  date: '2025-07-01'
+  link: https://doi.org/hbtt85
+  orcid: 0000-0003-1174-2395
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/mec.17600
   title: Divergence in Regulatory Regions and Gene Duplications May Underlie Chronobiological
     Adaptation in Desert Tortoises
@@ -82,23 +103,6 @@
   orcid: 0000-0003-1174-2395
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.26.564272
-  title: Sequence-based machine learning reveals 3D genome differences between bonobos
-    and chimpanzees
-  authors:
-  - Colin M. Brand
-  - Shuzhen Kuang
-  - Erin N. Gilbertson
-  - Evonne McArthur
-  - Katherine S. Pollard
-  - Timothy H. Webster
-  - John A. Capra
-  publisher: openRxiv
-  date: '2023-10-26'
-  link: https://doi.org/hbtt72
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1101/2023.04.26.538436
   title: "Incomplete dosage balance and dosage compensation in the ZZ/ZW Gila monster\
     \ (\n                  <i>Heloderma suspectum</i>\n                  ) revealed\
@@ -116,20 +120,6 @@
   publisher: openRxiv
   date: '2023-04-28'
   link: https://doi.org/gr8rg9
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1073/pnas.2116681119
-  title: Signatures of adaptive evolution in platyrrhine primate genomes
-  authors:
-  - Hazel Byrne
-  - Timothy H. Webster
-  - Sarah F. Brosnan
-  - "Patr\xEDcia Izar"
-  - Jessica W. Lynch
-  publisher: Proceedings of the National Academy of Sciences
-  date: '2022-08-22'
-  link: https://doi.org/gsx574
   orcid: 0000-0003-1174-2395
   plugin: orcid.py
   file: orcid.yaml

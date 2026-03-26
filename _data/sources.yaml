@@ -65,3 +65,9 @@
     - genomics
     - reptiles
     - sex chromosomes
+
+- id: doi:10.1371/journal.pone.0287609
+  image: images/2021_cotter.png
+  tags:
+    - genomics
+    - sex chromosomes

@@ -33,6 +33,7 @@
     - ecology
     - behavior
     - lemurs
+    - primates
 
 - id: doi:10.1111/mec.17600
   image: images/2024_mellor.jpg
@@ -84,3 +85,24 @@
     - reptiles
     - tortoises
     - pathogens
+
+- id: doi:10.1073/pnas.2200858119
+  image: images/2022_brand.png
+  tags:
+    - genomics
+    - chimpanzees and bonobos
+    - introgression
+    - primates
+
+- id: doi:10.1101/2022.01.07.475438
+  remove: true
+
+- id: doi:10.1073/pnas.2116681119
+  tags:
+    - genomics
+    - adaptation
+    - primates
+
+- id: doi:10.1101/2021.08.19.456368
+  publisher: bioRxiv
+  remove: true

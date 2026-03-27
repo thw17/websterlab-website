@@ -433,11 +433,16 @@
   - Kenro Kusumi
   - Melissa A. Wilson Sayres
   publisher: Genome Biology and Evolution
-  date: '2016-11-09'
+  date: '2017-01-01'
   link: https://doi.org/ggh635
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2017_rupp.png
+  tags:
+  - genomics
+  - sex chromosomes
+  - reptiles
 - id: doi:10.1016/j.gde.2016.08.002
   title: 'Genomic signatures of sex-biased demography: progress and prospects'
   authors:
@@ -447,8 +452,13 @@
   date: '2016-12-01'
   link: https://doi.org/ggwbqp
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2016_webster.png
+  tags:
+  - review
+  - genomics
+  - sex chromosomes
 - id: doi:10.1002/ajp.22507
   title: "Resource seasonality and reproduction predict fission\u2013fusion dynamics\
     \ in black\u2010and\u2010white ruffed lemurs (<i>Varecia variegata</i>)"
@@ -457,11 +467,17 @@
   - Timothy H. Webster
   - Jason M. Kamilar
   publisher: American Journal of Primatology
-  date: '2015-11-25'
+  date: '2016-02-01'
   link: https://doi.org/f79mdp
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2016_baden.png
+  tags:
+  - fission-fusion
+  - behavior
+  - primates
+  - lemurs
 - id: doi:10.1186/s12862-015-0358-5
   title: 'The origin of snakes: revealing the ecology, behavior, and evolutionary
     history of early snakes using genomics, phenomics, and the fossil record'

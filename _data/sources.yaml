@@ -222,3 +222,33 @@
 
 - id: doi:10.5281/zenodo.2635885
   remove: true
+
+- id: doi:10.1101/490839
+  image: images/2018_webster_sifaka.png
+  publisher: bioRxiv
+  tags:
+    - genomics
+    - methods
+    - primates
+    - lemurs
+
+- id: doi:10.1038/s41592-018-0046-7
+  image: images/2018_bioconda.png
+  tags:
+    - methods
+    - genomics
+
+- id: doi:10.1101/346940
+  publisher: bioRxiv
+  remove: true
+
+- id: doi:10.7287/peerj.preprints.3266v4
+  image: images/2018_gagassizii_leander_photo.jpg
+  tags:
+    - genomics
+    - reptiles
+    - tortoises
+
+- id: doi:10.7287/peerj.preprints.3266v3
+  remove: true
+

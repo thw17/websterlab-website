@@ -682,3 +682,26 @@
   - hair
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41598-021-90170-1
+  title: Unique evolutionary trajectories of breast cancers with distinct genomic
+    and spatial heterogeneity
+  authors:
+  - Tanya N. Phung
+  - Timothy H. Webster
+  - Elizabeth Lenkiewicz
+  - Smriti Malasi
+  - Mariacarla Andreozzi
+  - Ann E. McCullough
+  - Karen S. Anderson
+  - Barbara A. Pockaj
+  - Melissa A. Wilson
+  - Michael T. Barrett
+  publisher: Scientific Reports
+  date: '2021-05-19'
+  link: https://doi.org/g6bxgc
+  image: images/2021_phung.jpg
+  tags:
+  - genomics
+  - cancer
+  plugin: sources.py
+  file: sources.yaml

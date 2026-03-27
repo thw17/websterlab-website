@@ -355,12 +355,18 @@
   - Elaine E. Guevara
   - Richard R. Lawler
   - Brenda J. Bradley
-  publisher: openRxiv
+  publisher: bioRxiv
   date: '2018-12-18'
   link: https://doi.org/gk2wnx
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2018_webster_sifaka.png
+  tags:
+  - genomics
+  - methods
+  - primates
+  - lemurs
 - id: doi:10.1038/s41592-018-0046-7
   title: 'Bioconda: sustainable and comprehensive software distribution for the life
     sciences'
@@ -377,26 +383,12 @@
   date: '2018-07-01'
   link: https://doi.org/gd2xzp
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/346940
-  title: Identifying, understanding, and correcting technical biases on the sex chromosomes
-    in next-generation sequencing data
-  authors:
-  - Timothy H. Webster
-  - Madeline Couse
-  - Bruno M. Grande
-  - Eric Karlins
-  - Tanya N. Phung
-  - Phillip A. Richmond
-  - Whitney Whitford
-  - Melissa A. Wilson Sayres
-  publisher: openRxiv
-  date: '2018-06-14'
-  link: https://doi.org/gkv93b
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2018_bioconda.png
+  tags:
+  - methods
+  - genomics
 - id: doi:10.7287/peerj.preprints.3266v4
   title: "Improved draft of the Mojave Desert tortoise genome,\n                 \
     \ <i>Gopherus agassizii</i>\n                  , version 1.1"
@@ -409,8 +401,13 @@
   date: '2018-01-31'
   link: https://doi.org/hbtt8c
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2018_gagassizii_leander_photo.jpg
+  tags:
+  - genomics
+  - reptiles
+  - tortoises
 - id: doi:10.1093/jhered/esx084
   title: 'EvSex16: Evolutionary Genomics of Sex'
   authors:
@@ -422,20 +419,6 @@
   publisher: Journal of Heredity
   date: '2017-10-01'
   link: https://doi.org/hbtt8d
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7287/peerj.preprints.3266v3
-  title: "Improved draft of the Mojave Desert tortoise genome,\n                 \
-    \ <i>Gopherus agassizii</i>\n                  , version 1.1"
-  authors:
-  - Timothy H Webster
-  - Greer A. Dolby
-  - Melissa Wilson Sayres
-  - Kenro Kusumi
-  publisher: PeerJ
-  date: '2017-09-19'
-  link: https://doi.org/hbtt8f
   orcid: 0000-0003-1174-2395
   plugin: orcid.py
   file: orcid.yaml

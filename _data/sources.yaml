@@ -252,3 +252,27 @@
 - id: doi:10.7287/peerj.preprints.3266v3
   remove: true
 
+- id: doi:10.1093/gbe/evw263
+  image: images/2017_rupp.png
+  date: '2017-01-01'
+  tags:
+    - genomics
+    - sex chromosomes
+    - reptiles
+
+- id: doi:10.1016/j.gde.2016.08.002
+  image: images/2016_webster.png
+  tags:
+    - review
+    - genomics
+    - sex chromosomes
+
+- id: doi:10.1002/ajp.22507
+  date: '2016-02-01'
+  image: images/2016_baden.png
+  tags:
+    - fission-fusion
+    - behavior
+    - primates
+    - lemurs
+

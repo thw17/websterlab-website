@@ -98,6 +98,7 @@
   remove: true
 
 - id: doi:10.1073/pnas.2116681119
+  image: images/2021_byrne.jpg
   tags:
     - genomics
     - adaptation

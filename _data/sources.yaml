@@ -107,3 +107,32 @@
 - id: doi:10.1101/2021.08.19.456368
   publisher: bioRxiv
   remove: true
+
+- id: doi:10.1126/sciadv.abd2274
+  image: images/2021_guevara.jpg
+  tags:
+    - genomics
+    - adaptation
+    - primates
+    - lemurs
+    - diet
+    - ecology
+
+- id: doi:10.1101/2021.01.31.429027
+  publisher: bioRxiv
+  remove: true
+
+- id: doi:10.1111/1755-0998.13260
+  date: '2021-01-01'
+  image: images/2020_ozga.png
+  tags:
+    - genomics
+    - methods
+    - chimpanzees and bonobos
+    - primate
+
+- id: doi:10.1038/s41598-021-90409-x
+  image: images/2020_lasisi.png
+  tags:
+    - methods
+    - hair

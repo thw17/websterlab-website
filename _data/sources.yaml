@@ -142,3 +142,83 @@
   tags:
     - genomics
     - cancer
+
+- id: doi:10.1101/2020.12.14.422788
+  publisher: bioRxiv
+  image: images/2020_brand.png
+  tags:
+    - genomics
+    - primates
+    - adaptation
+    - chimpanzees and bonobos
+
+- id: doi:10.1101/2020.11.24.392191
+  publisher: bioRxiv
+  remove: true
+
+- id: doi:10.1016/j.anbehav.2020.04.003
+  image: images/2020_baden.jpg
+  tags:
+    - lemurs
+    - fission-fusion
+    - behavior
+    - primates
+
+- id: doi:10.1101/2020.02.18.955377
+  publisher: bioRxiv
+  remove: true
+
+- id: doi:10.1093/gbe/evaa016
+  image: images/2020_dolby.png
+  tags:
+    - genomics
+    - tortoises
+    - reptiles
+
+- id: doi:10.3390/v12020143
+  image: images/2020_orton.png
+  tags:
+    - tortoises
+    - reptiles
+    - microbiome
+    - pathogens
+
+- id: doi:10.1101/799825
+  publisher: bioRxiv
+  remove: true
+
+- id: doi:10.1016/j.ympev.2020.106920
+  image: images/2020_torosin_selection.jpg
+  tags:
+    - genomics
+    - primates
+    - adaptation
+    - pathogens
+    - sex chromosomes
+
+- id: doi:10.1002/ajpa.24086
+  image: images/2020_torosin_argentina.png
+  tags:
+    - genomics
+    - primates
+    - adaptation
+    - pathogens
+    - sex chromosomes
+
+- id: doi:10.1101/725333
+  publisher: bioRxiv
+  remove: true
+
+- id: doi:10.1101/708008
+  publisher: bioRxiv
+  remove: true
+
+- id: doi:10.1093/gigascience/giz074
+  image: images/xyalign_logo.png
+  tags:
+    - methods
+    - genomics
+    - sex chromosomes
+
+- id: doi:10.5281/zenodo.2635885
+  remove: true

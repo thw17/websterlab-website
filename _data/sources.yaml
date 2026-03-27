@@ -136,3 +136,9 @@
   tags:
     - methods
     - hair
+
+- id: doi:10.1038/s41598-021-90170-1
+  image: images/2021_phung.jpg
+  tags:
+    - genomics
+    - cancer

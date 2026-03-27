@@ -246,28 +246,18 @@
   - Frances J. White
   - Nelson Ting
   - Timothy H. Webster
-  publisher: openRxiv
+  publisher: bioRxiv
   date: '2020-12-14'
   link: https://doi.org/hbtt77
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.11.24.392191
-  title: High-throughput phenotyping methods for quantifying hair fiber morphology
-  authors:
-  - Tina Lasisi
-  - Arslan A. Zaidi
-  - Timothy Harding Webster
-  - Nicholas Bradley Stephens
-  - Kendall Routch
-  - Nina Grace Jablonski
-  - Mark David Shriver
-  publisher: openRxiv
-  date: '2020-11-24'
-  link: https://doi.org/hbtt78
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2020_brand.png
+  tags:
+  - genomics
+  - primates
+  - adaptation
+  - chimpanzees and bonobos
 - id: doi:10.1016/j.anbehav.2020.04.003
   title: Genetic relatedness cannot explain social preferences in black-and-white
     ruffed lemurs, Varecia variegata
@@ -279,27 +269,14 @@
   date: '2020-06-01'
   link: https://doi.org/gpbskw
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.02.18.955377
-  title: Urine as a high-quality source of host genomic DNA from wild populations
-  authors:
-  - Andrew T. Ozga
-  - Timothy H. Webster
-  - Ian C. Gilby
-  - Melissa A. Wilson
-  - Rebecca S. Nockerts
-  - Michael L. Wilson
-  - Anne E. Pusey
-  - Yingying Li
-  - Beatrice H. Hahn
-  - Anne C. Stone
-  publisher: openRxiv
-  date: '2020-02-20'
-  link: https://doi.org/gkwkvd
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2020_baden.jpg
+  tags:
+  - lemurs
+  - fission-fusion
+  - behavior
+  - primates
 - id: doi:10.1093/gbe/evaa016
   title: Discovery of a New TLR Gene and Gene Expansion Event through Improved Desert
     Tortoise Genome Assembly with Chromosome-Scale Scaffolds
@@ -314,8 +291,13 @@
   date: '2020-02-01'
   link: https://doi.org/hbtt79
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2020_dolby.png
+  tags:
+  - genomics
+  - tortoises
+  - reptiles
 - id: doi:10.3390/v12020143
   title: 'Virus Discovery in Desert Tortoise Fecal Samples: Novel Circular Single-Stranded
     DNA Viruses'
@@ -335,55 +317,14 @@
   date: '2020-01-26'
   link: https://doi.org/gqkm5b
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/799825
-  title: "Genetic relatedness cannot explain social preferences in black-and-white\
-    \ ruffed lemurs (\n                  <i>Varecia variegata</i>\n              \
-    \    )"
-  authors:
-  - Andrea L Baden
-  - Timothy H Webster
-  - Brenda J Bradley
-  publisher: openRxiv
-  date: '2019-10-10'
-  link: https://doi.org/gk3dcw
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/725333
-  title: "Positively selected variants in functionally important regions of TLR7 in\n\
-    \                  <i>Alouatta guariba clamitans</i>\n                  with yellow\
-    \ fever virus exposure in Northern Argentina"
-  authors:
-  - Nicole S. Torosin
-  - Timothy H. Webster
-  - Hernan Argibay
-  - Hebe Ferreyra
-  - Marcela Uhart
-  - Ilaria Agostini
-  - Leslie A. Knapp
-  publisher: openRxiv
-  date: '2019-08-05'
-  link: https://doi.org/gkz6vr
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/708008
-  title: "Comparing the selective landscape of TLR7 and TLR8 across primates reveals\
-    \ unique sites under positive selection in\n                  <i>Alouatta</i>"
-  authors:
-  - Nicole S. Torosin
-  - Hernan Argibay
-  - Timothy H. Webster
-  - Patrice Showers Corneli
-  - Leslie A. Knapp
-  publisher: openRxiv
-  date: '2019-07-19'
-  link: https://doi.org/gk3mtp
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2020_orton.png
+  tags:
+  - tortoises
+  - reptiles
+  - microbiome
+  - pathogens
 - id: doi:10.1093/gigascience/giz074
   title: Identifying, understanding, and correcting technical artifacts on the sex
     chromosomes in next-generation sequencing data
@@ -400,25 +341,13 @@
   date: '2019-07-01'
   link: https://doi.org/gf6kmf
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.5281/zenodo.2635885
-  title: 'XYalign: Version 1.1.6'
-  authors:
-  - Timothy H. Webster
-  - Madeline Couse
-  - Bruno M. Grande
-  - Eric Karlins
-  - Tanya N. Phung
-  - Phillip A. Richmond
-  - Whitney Whitford
-  - Melissa A. Wilson
-  publisher: Zenodo
-  date: '2019-04-10'
-  link: https://doi.org/hbtt8b
-  orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/xyalign_logo.png
+  tags:
+  - methods
+  - genomics
+  - sex chromosomes
 - id: doi:10.1101/490839
   title: Successful exome capture and sequencing in lemurs using human baits
   authors:
@@ -703,5 +632,52 @@
   tags:
   - genomics
   - cancer
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ympev.2020.106920
+  title: Comparing the selective landscape of TLR7 and TLR8 across primates reveals
+    unique sites under positive selection in Alouatta
+  authors:
+  - Nicole S. Torosin
+  - Hernan Argibay
+  - Timothy H. Webster
+  - Patrice Showers Corneli
+  - Leslie A. Knapp
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2020-11-01'
+  link: https://doi.org/hbtz6w
+  image: images/2020_torosin_selection.jpg
+  tags:
+  - genomics
+  - primates
+  - adaptation
+  - pathogens
+  - sex chromosomes
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/ajpa.24086
+  title: "Positively selected variants in functionally important regions of\n    \
+    \                <scp>TLR7</scp>\n                    in\n                   \
+    \ <i>Alouatta guariba clamitans</i>\n                    with yellow fever virus\
+    \ exposure in Northern Argentina"
+  authors:
+  - Nicole S. Torosin
+  - Timothy H. Webster
+  - "Hern\xE1n Argibay"
+  - Candelaria Sanchez Fernandez
+  - Hebe Ferreyra
+  - Marcela Uhart
+  - Ilaria Agostini
+  - Leslie A. Knapp
+  publisher: American Journal of Physical Anthropology
+  date: '2020-06-25'
+  link: https://doi.org/hbtz6x
+  image: images/2020_torosin_argentina.png
+  tags:
+  - genomics
+  - primates
+  - adaptation
+  - pathogens
+  - sex chromosomes
   plugin: sources.py
   file: sources.yaml

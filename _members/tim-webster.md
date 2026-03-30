@@ -3,6 +3,7 @@ name: Tim Webster
 image: images/webster_photo.jpg
 role: principal-investigator
 affiliation: University of Utah
+group: current
 aliases:
   - T. Webster
   - T Webster

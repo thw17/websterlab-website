@@ -3,6 +3,7 @@ name: Becky Seegraber
 image: images/seegraber.jpg
 role: phd
 affiliation: University of Utah
+group: current
 aliases:
   - B. Seegraber
   - B Seegraber

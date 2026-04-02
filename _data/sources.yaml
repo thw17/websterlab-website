@@ -93,6 +93,7 @@
     - chimpanzees and bonobos
     - introgression
     - primates
+    - speciation
 
 - id: doi:10.1101/2022.01.07.475438
   remove: true
@@ -277,3 +278,12 @@
     - primates
     - lemurs
 
+- title: Chimpanzees at Semliki ignore oil palms
+  - date: '2010-12-01'
+  - image: 2010_mcgrew.jpg
+  tags:
+    - primates
+    - behavior
+    - culture
+    - chimpanzees and bonobos
+    - diet

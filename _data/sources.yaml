@@ -280,8 +280,15 @@
 
 - title: Chimpanzees at Semliki ignore oil palms
   date: '2010-12-01'
-  image: 2010_mcgrew.jpg
+  image: images/2010_mcgrew.jpg
   link: https://www.researchgate.net/profile/Tim-Webster-2/publication/233408500_Chimpanzees_at_Semliki_Ignore_Oil_Palms/links/0fcfd50a53aafa1c48000000/Chimpanzees-at-Semliki-Ignore-Oil-Palms.pdf
+  publisher: Pan Africa News
+  authors:
+    - William C. McGrew
+    - Linda F. Marchant
+    - Charlotte L.R. Payne
+    - Timothy H. Webster
+    - Kevin D. Hunt
   tags:
     - primates
     - behavior

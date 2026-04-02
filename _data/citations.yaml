@@ -177,6 +177,7 @@
   - chimpanzees and bonobos
   - introgression
   - primates
+  - speciation
 - id: doi:10.1126/sciadv.abd2274
   title: "Comparative genomic analysis of sifakas (\n            <i>Propithecus</i>\n\
     \            ) reveals selection for folivory and high heterozygosity despite\
@@ -679,5 +680,16 @@
   - adaptation
   - pathogens
   - sex chromosomes
+  plugin: sources.py
+  file: sources.yaml
+- title: Chimpanzees at Semliki ignore oil palms
+  date: '2010-12-01'
+  image: 2010_mcgrew.jpg
+  tags:
+  - primates
+  - behavior
+  - culture
+  - chimpanzees and bonobos
+  - diet
   plugin: sources.py
   file: sources.yaml

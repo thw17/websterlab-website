@@ -6,6 +6,7 @@ affiliation: George Washington University
 group: current
 aliases:
   - Clara L Mariencheck
+  - Clara L. Mariencheck
 links:
   orcid: 0009-0002-2002-6470
 ---

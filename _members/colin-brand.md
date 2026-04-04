@@ -6,6 +6,7 @@ affiliation: UC San Francisco
 group: alumni
 aliases:
   - Colin M. Brand
+  - Colin M Brand
 links:
   website: https://colinmbrand.weebly.com/
   orcid: 0000-0002-6881-8074

@@ -281,7 +281,7 @@
 - title: Chimpanzees at Semliki ignore oil palms
   date: '2010-12-01'
   image: images/2010_mcgrew.jpg
-  link: https://www.researchgate.net/profile/Tim-Webster-2/publication/233408500_Chimpanzees_at_Semliki_Ignore_Oil_Palms/links/0fcfd50a53aafa1c48000000/Chimpanzees-at-Semliki-Ignore-Oil-Palms.pdf
+  link: https://mahale.main.jp/PAN/17_2/17(2)_04.html
   publisher: Pan Africa News
   authors:
     - William C. McGrew
@@ -295,3 +295,81 @@
     - culture
     - chimpanzees and bonobos
     - diet
+
+- title: Grooming hand-clasp by chimpanzees of the Mugiri community, Toro-Semliki
+    Wildlife Reserve, Uganda
+  date: '2009-07-01'
+  image: images/2009_webster.jpg
+  link: https://mahale.main.jp/PAN/16_1/16(1)_02.html
+  publisher: Pan Africa News
+  authors:
+    - Timothy H. Webster
+    - Phineas R. Hodson
+    - Kevin D. Hunt
+  tags:
+    - primates
+    - behavior
+    - culture
+    - chimpanzees and bonobos
+
+- title: Coprophagy by the semi-habituated chimpanzees of Semliki, Uganda.
+  date: '2008-12-01'
+  image: images/2008_payne.png
+  link: https://mahale.main.jp/PAN/15_2/15(2)_06.html
+  publisher: Pan Africa News
+  authors:
+    - Charlotte L. R. Payne
+    - Timothy H. Webster
+    - Kevin D. Hunt
+  tags:
+    - primates
+    - behavior
+    - culture
+    - chimpanzees and bonobos
+    - diet
+
+- title: 'Well digging by Semliki chimpanzees: new data on laterality and hydrology'
+  date: '2010-12-01'
+  image: images/2014_mcgrew.jpeg
+  link: https://mahale.main.jp/PAN/20_1/20(1)_02.html
+  publisher: Pan Africa News
+  authors:
+    - William C. McGrew
+    - Linda F. Marchant
+    - Charlotte L.R. Payne
+    - Timothy H. Webster
+    - Kevin D. Hunt
+  tags:
+    - primates
+    - behavior
+    - culture
+    - chimpanzees and bonobos
+
+- id: doi:10.1186/s12862-015-0358-5
+  image: images/2015_hsiang.jpg
+  tags:
+    - reptiles
+
+- id: doi:10.1016/j.jhevol.2014.02.005
+  image: images/2014_webster.jpg
+  tags:
+    - primates
+    - behavior
+    - culture
+    - chimpanzees and bonobos
+    - diet
+
+- id: doi:10.1007/s10764-013-9747-z
+  image: images/2014_anestis.jpeg
+  tags:
+    - primates
+    - behavior
+    - chimpanzees and bonobos
+    - genetics
+
+- id: doi:10.1371/journal.pone.0047760
+  image: images/2012_mcintosh.png
+  tags:
+    - primates
+    - chimpanzees and bonobos
+    - genetics

@@ -16,7 +16,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
-{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+{% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
 
 
 {% include section.html background="images/background.jpg" dark=true %}

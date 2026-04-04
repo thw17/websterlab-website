@@ -495,8 +495,11 @@
   date: '2015-05-20'
   link: https://doi.org/f7cns2
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2015_hsiang.jpg
+  tags:
+  - reptiles
 - id: doi:10.1016/j.jhevol.2014.02.005
   title: "Selective insectivory at Toro-Semliki, Uganda: Comparative analyses suggest\
     \ no \u2018savanna\u2019 chimpanzee pattern"
@@ -510,8 +513,15 @@
   date: '2014-06-01'
   link: https://doi.org/hbtt8g
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2014_webster.jpg
+  tags:
+  - primates
+  - behavior
+  - culture
+  - chimpanzees and bonobos
+  - diet
 - id: doi:10.1007/s10764-013-9747-z
   title: 'AVPR1A Variation in Chimpanzees (Pan troglodytes): Population Differences
     and Association with Behavioral Style'
@@ -526,8 +536,14 @@
   date: '2014-01-11'
   link: https://doi.org/hbtt8h
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2014_anestis.jpeg
+  tags:
+  - primates
+  - behavior
+  - chimpanzees and bonobos
+  - genetics
 - title: 'Well digging by Semliki chimpanzees: new data on laterality and hydrology'
   publisher: Pan Africa News
   date: '2016-02-24'
@@ -551,8 +567,13 @@
   date: '2012-10-24'
   link: https://doi.org/f4bz36
   orcid: 0000-0003-1174-2395
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/2012_mcintosh.png
+  tags:
+  - primates
+  - chimpanzees and bonobos
+  - genetics
 - title: Chimpanzees at Semliki ignore oil palms
   publisher: Pan Africa News
   date: '2016-02-24'
@@ -685,7 +706,7 @@
 - title: Chimpanzees at Semliki ignore oil palms
   date: '2010-12-01'
   image: images/2010_mcgrew.jpg
-  link: https://www.researchgate.net/profile/Tim-Webster-2/publication/233408500_Chimpanzees_at_Semliki_Ignore_Oil_Palms/links/0fcfd50a53aafa1c48000000/Chimpanzees-at-Semliki-Ignore-Oil-Palms.pdf
+  link: https://mahale.main.jp/PAN/17_2/17(2)_04.html
   publisher: Pan Africa News
   authors:
   - William C. McGrew
@@ -699,5 +720,57 @@
   - culture
   - chimpanzees and bonobos
   - diet
+  plugin: sources.py
+  file: sources.yaml
+- title: Grooming hand-clasp by chimpanzees of the Mugiri community, Toro-Semliki
+    Wildlife Reserve, Uganda
+  date: '2009-07-01'
+  image: images/2009_webster.jpg
+  link: https://mahale.main.jp/PAN/16_1/16(1)_02.html
+  publisher: Pan Africa News
+  authors:
+  - Timothy H. Webster
+  - Phineas R. Hodson
+  - Kevin D. Hunt
+  tags:
+  - primates
+  - behavior
+  - culture
+  - chimpanzees and bonobos
+  plugin: sources.py
+  file: sources.yaml
+- title: Coprophagy by the semi-habituated chimpanzees of Semliki, Uganda.
+  date: '2008-12-01'
+  image: images/2008_payne.png
+  link: https://mahale.main.jp/PAN/15_2/15(2)_06.html
+  publisher: Pan Africa News
+  authors:
+  - Charlotte L. R. Payne
+  - Timothy H. Webster
+  - Kevin D. Hunt
+  tags:
+  - primates
+  - behavior
+  - culture
+  - chimpanzees and bonobos
+  - diet
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Well digging by Semliki chimpanzees: new data on laterality and hydrology'
+  date: '2010-12-01'
+  image: images/2014_mcgrew.jpeg
+  link: https://mahale.main.jp/PAN/20_1/20(1)_02.html
+  publisher: Pan Africa News
+  authors:
+  - William C. McGrew
+  - Linda F. Marchant
+  - Charlotte L.R. Payne
+  - Timothy H. Webster
+  - Kevin D. Hunt
+  tags:
+  - primates
+  - behavior
+  - culture
+  - chimpanzees and bonobos
   plugin: sources.py
   file: sources.yaml

@@ -1,6 +1,6 @@
 ---
 name: Tina Lasisi
-image: images/lasisi.jped
+image: images/lasisi.jpeg
 role: assistant-professor
 affiliation: University of Michigan
 group: alumni

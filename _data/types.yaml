@@ -23,7 +23,7 @@ undergrad:
   description: Undergraduate Student
 
 research-specialist:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-flask
   description: Research Specialist
 
 programmer:

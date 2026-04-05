@@ -7,6 +7,7 @@ group: alumni
 aliases:
   - T. Lasisi
   - T Lasisi
+  - Tina Lasisi
 links:
   website: https://www.tinalasisi.com/
   orcid: 0000-0002-7546-6724

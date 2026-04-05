@@ -6,6 +6,7 @@ affiliation: Arizona State University
 group: alumni
 aliases:
   - B Scott
+  - Brooklynn Scott
 links:
   github: brooklynnscott00
 ---

@@ -1,6 +1,6 @@
 ---
 name: Bennett Gardner
-image: images/Gardner.jpg
+image: images/gardner.jpg
 role: undergrad
 affiliation: University of Utah
 group: current

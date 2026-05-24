@@ -7,7 +7,7 @@
 
 **We're recruiting!! We have funding for one or more graduate students to start in Fall 2027 (the Dec 2026 application cycle).**
 
-**This website is currently under construction as of March 27, 2026**
+**This website is currently under construction as of May 23, 2026**
 
 The Primate Evolution and Genomics Lab (PEGL) is part of the [Department of Anthropology](https://anthro.utah.edu) at the [University of Utah](https://www.utah.edu) and directed by Tim Webster.
 
